@@ -9,6 +9,6 @@
 
 - Help Me Beat My [Friend](https://github.com/nohamen/) he has alot of more followers than me :)
 - Please Try Starring My Repositories it helps me alot  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Star.png?raw=true" alt="Star.png" alt="star" width="=20" height="20" />
-- sometimes im eating cookies so i wont always be active but when im not eating cookies i will be active 👍
+- help me with my projects and i will help you 👍
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cookiexlks&" alt="cookiexlks" /></p>
