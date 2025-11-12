@@ -9,5 +9,6 @@
 
 - Help Me Beat My [Friend](https://github.com/nohamen/) he has alot of more followers than me :)
 - Please Try Starring My Repositories it helps me alot  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Star.png?raw=true" alt="Star.png" alt="star" width="=20" height="20" />
-   - help me in this [Issue](https://github.com/rxzyx/prodigy-hack/issues/350) with a person named Guy-Deon
+   - help me in this [Issue](https://github.com/rxzyx/prodigy-hack/issues/350)
+   -  Forums are now Open For People who want to become a contributor of [gab ideas](https://github.com/isaiahxlks/custom-gab-ideas/tree/main)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cookiexlks&" alt="cookiexlks" /></p>
