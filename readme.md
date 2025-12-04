@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFED00FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+isaiah+xlks;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFED00FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+cookie+xlks;+Welcome+to+My+Profile!;Over+6+years+of+programming+;Always+learning+new+things+;Python+learning+enthusiast+;DevOpsX+community+member)](https://git.io/typing-svg)
 
 
 ## 🛠 Tools and Languages
