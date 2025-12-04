@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%F70707FF&center=true&vCenter=true&width=600&lines=Hi+there+,+I+am+cookie+xlks;+Welcome+to+My+Profile!;Over+6+years+of+programming+;Always+learning+new+things+;Python+learning+enthusiast+;DevOpsX+community+member;+average+developer;+Peace+<3)](https://git.io/typing-svg)
-
+## Find me:
+<a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
 <a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a> 
 <h3 align="center">⚒ Tools I use:</h3>
 <p align="center">
