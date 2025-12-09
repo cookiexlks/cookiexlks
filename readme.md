@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%F70707FF&center=true&vCenter=true&width=600&lines=Hi+there+,+I+am+cookie+xlks;+Welcome+to+My+Profile!;Over+6+years+of+programming+:D;Always+learning+new+things+;Python+learning+enthusiast+;DevOpsX+community+member;+average+developer;+Bye!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%F70707FF&center=true&vCenter=true&width=600&lines=Hi+there+,+I+am+cookie+xlks;+Welcome+to+My+Profile!;Over+6+years+of+programming+:D+!;Always+learning+new+things+;Python+learning+enthusiast+;DevOpsX+community+member;+average+developer;+Bye!)](https://git.io/typing-svg)
 ## Find me:
 <a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
 ![Cookie's GitHub stats](https://github-readme-stats.vercel.app/api?username=cookiexlks&show_icons=true&theme=ambient_gradient)
