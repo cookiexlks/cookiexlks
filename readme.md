@@ -11,9 +11,9 @@
 <a target="_blank"><img alt="Power BI" src="https://img.shields.io/badge/PowerBI-black?logo=Power%20BI&logoColor=yellow&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a> 
-![Cookie's GitHub stats](https://github-readme-stats.vercel.app/api?username=cookiexlks&show_icons=true&theme=ambient_gradient)
-### What's going on
 
+### What's going on
+![Cookie's GitHub stats](https://github-readme-stats.vercel.app/api?username=cookiexlks&show_icons=true&theme=ambient_gradient)
 - Help Me Beat My [Friend](https://github.com/nohamen/) he has alot of more followers than me :)
 - Please Try Starring My Repositories it helps me alot<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Star.png?raw=true" alt="Star.png" alt="star" width="=20" height="20" />
 - PLS HELP ME IN SOME OF MY PROJECTS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
