@@ -3,9 +3,9 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=1000&color=4EFF00FF&center=true&vCenter=true&width=435&lines=Software+Engineer;DSF+Member;Community+Builder" alt="Typing SVG" /></a>
 </p>
+
+
 ## Find me: <a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
-
-
 
 
 <h3 align="center">⚒ Tools I use:</h3>
