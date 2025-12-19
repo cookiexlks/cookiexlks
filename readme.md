@@ -3,11 +3,12 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=1000&color=4EFF00FF&center=true&vCenter=true&width=435&lines=Software+Engineer;DSF+Member;Community+Builder" alt="Typing SVG" /></a>
 </p>
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
+<h2><a id="about"></a><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> About Me</h2>
 
 
 ## Find me: <a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
-
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <h3 align="center">⚒ Tools I use:</h3>
 <p align="center">
 <a target="_blank"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
