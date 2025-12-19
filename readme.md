@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%F70707FF&center=true&vCenter=true&width=600&lines=Hi+there+,+I+am+cookie+xlks;+Welcome+to+My+Profile!;Over+6+years+of+programming+:D+!;Always+learning+new+things+;Python+learning+enthusiast+;DevOpsX+community+member;+average+developer;+Bye!;+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%02FF08FF&center=true&vCenter=true&width=600&lines=Hi+there+,+I+am+cookie+xlks;+Welcome+to+My+Profile!;Over+6+years+of+programming+:D+!;Always+learning+new+things+;Python+learning+enthusiast+;DevOpsX+community+member;+average+developer;+Bye!;+Full+Stack+Developer)](https://git.io/typing-svg)
 ## Find me: <a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
 
 
