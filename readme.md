@@ -8,7 +8,7 @@
 </p>
 
 ## Fast GitHub Stats ↓
-![Stats](https://github-readme-stats-fast.vercel.app/api?username=cookiexlks&show_icons=true&theme=ambient_gradient&bg_color=FFF7A1,FFE55C&include_all_commits=true&count_private=true&rank_icon=percentile&cache_seconds=14400&hide_border=true&border_radius=10)
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=cookiexlks&show_icons=true&theme=ambient_gradient&bg_color=000000,00FF41&title_color=00FF41&text_color=00FF41&icon_color=00FF41&include_all_commits=true&count_private=true&rank_icon=percentile&cache_seconds=14400&hide_border=true&border_radius=10)
 
 
 ## Find me: <a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
