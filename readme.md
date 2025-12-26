@@ -25,3 +25,6 @@
 - Please Try Starring My Repositories it helps me alot<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Star.png?raw=true" alt="Star.png" alt="star" width="=20" height="20" />
 - PLS HELP ME IN SOME OF MY PROJECTS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" /
 
+<div align="center">
+  <img src="https://i.ibb.co/5v2Z2yk/hacker-computer-green.jpg" alt="Hacker at computer" width="500" />
+</div>
