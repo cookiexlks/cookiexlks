@@ -8,7 +8,7 @@
 </p>
 
 ## Fast GitHub Stats ↓
-![Stats](https://github-readme-stats-fast.vercel.app/api?username=cookiexlks-2005&show_icons=true&theme=ambient_gradient&cache_seconds=0)
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=cookiexlks&show_icons=true&theme=ambient_gradient&cache_seconds=0)
 
 ## Find me: <a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
 <h3 align="center">⚒ Tools I use:</h3>
