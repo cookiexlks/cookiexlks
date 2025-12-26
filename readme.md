@@ -12,7 +12,8 @@
 
 
 ## My Github Streak!
-![GitHub Streak](https://streak-stats.demolab.com?user=cookiexlks&theme=dark&hide_border=true)
+![Contributions](https://github-contributions.vercel.app/api/v1/cookiexlks)
+
 
 
 ## Find me: <a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
