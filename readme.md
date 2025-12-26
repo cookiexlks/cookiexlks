@@ -11,7 +11,7 @@
 ![Stats](https://github-readme-stats-fast.vercel.app/api?username=cookiexlks&show_icons=true&theme=ambient_gradient&bg_color=000000,00FF41&title_color=00FF41&text_color=00FF41&icon_color=00FF41&include_all_commits=true&count_private=true&rank_icon=percentile&cache_seconds=14400&hide_border=true&border_radius=10)
 
 
-## My GitHub Trophys & More
+## My GitHub Profile Status
 ![Commits](https://img.shields.io/badge/1000%2B_Commits-00ff41?style=for-the-badge&labelColor=000000)
 ![Projects](https://img.shields.io/badge/20%2B_Projects-00ff41?style=for-the-badge&labelColor=000000)
 ![Open_Source](https://img.shields.io/badge/Open_Source_Contributor-00ff41?style=for-the-badge&labelColor=000000)
