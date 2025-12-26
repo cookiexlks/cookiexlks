@@ -8,7 +8,19 @@
 </p>
 
 ## Fast GitHub Stats ↓
-![Stats](https://github-readme-stats-fast.vercel.app/api?username=cookiexlks&show_icons=true&theme=ambient_gradient&bg_color=000000,00FF41&title_color=00FF41&text_color=00FF41&icon_color=00FF41&include_all_commits=true&count_private=true&rank_icon=percentile&cache_seconds=14400&hide_border=true&border_radius=10)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" 
+       src="https://github-readme-stats-fast.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=FFF176,FFEB3B" 
+       alt="Anurag's github stats" />
+</a>
+|
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" 
+       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=FFF176,FFEB3B" />
+</a>
+
+| ------------- | ------------- |
+
 
 
 ## My GitHub Profile Status
