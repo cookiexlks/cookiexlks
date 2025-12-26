@@ -27,8 +27,9 @@
 ![Followers](https://img.shields.io/github/followers/cookiexlks?color=00ff41&label=Followers&style=for-the-badge&labelColor=000000)
 ![Stars](https://img.shields.io/github/stars/cookiexlks?color=00ff41&label=Stars&style=for-the-badge&labelColor=000000)
 
+## Who I Work With
 
-
+[![Contribution Stats](https://readme-contribution-stats.cookiexlks-connect.workers.dev/?type=repos&username=cookiexlksconnect)](https://github.com/search?q=is%3Apr+is%3Amerged+is%3Apublic+author%3cookiexlksconnect+-user%3cookiexlksconnect)
 
 ## Find me: <a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
 <h3 align="center">⚒ Tools I use:</h3>
