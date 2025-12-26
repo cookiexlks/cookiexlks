@@ -8,7 +8,8 @@
 </p>
 
 ## Fast GitHub Stats ↓
-![Cookie's GitHub Stats](https://github-stats.public.demolabs.cookiexlks.com/api?username=cookiexlks&show_icons=true&title_color=FFEB3B&text_color=FFEB3B&icon_color=FFEB3B)
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=cookiexlks-&show_icons=true&theme=vision-friendly-yellow&cache_seconds=0)
+
 
 
 
