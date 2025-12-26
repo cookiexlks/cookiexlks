@@ -26,5 +26,6 @@
 - PLS HELP ME IN SOME OF MY PROJECTS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" /
 
 <div align="center">
-  <img src="https://i.ibb.co/5v2Z2yk/hacker-computer-green.jpg" alt="Hacker at computer" width="500" />
+  <img src="https://raw.githubusercontent.com/InfinitexLKS/assets/main/hacker-green.png" width="500" alt="Hacker at computer" />
 </div>
+
