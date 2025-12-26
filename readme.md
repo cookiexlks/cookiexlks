@@ -11,7 +11,7 @@
 ![Stats](https://github-readme-stats-fast.vercel.app/api?username=cookiexlks&show_icons=true&theme=ambient_gradient&bg_color=000000,00FF41&title_color=00FF41&text_color=00FF41&icon_color=00FF41&include_all_commits=true&count_private=true&rank_icon=percentile&cache_seconds=14400&hide_border=true&border_radius=10)
 
 
-## My Github Streak!
+## My GitHub Status
 ![Hacker](https://img.shields.io/badge/Hacker-00ff41?style=for-the-badge&logo=matrix&logoColor=000000&labelColor=000000)
 ![Terminal](https://img.shields.io/badge/Terminal-00ff41?style=for-the-badge&logo=gnometerminal&logoColor=00ff41&labelColor=000000)
 ![Linux](https://img.shields.io/badge/Linux-00ff41?style=for-the-badge&logo=linux&logoColor=00ff41&labelColor=000000)
