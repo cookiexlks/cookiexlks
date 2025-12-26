@@ -8,22 +8,30 @@
 </p>
 
 ## Fast GitHub Stats ↓
-<a href="https://github.com/cookiexlks/github-readme-stats">
-  <img align="center"
-       src="https://github-readme-stats-fast.vercel.app/api?username=cookiexlks&show_icons=true&include_all_commits=true&hide_border=true
-       &title_color=000000&text_color=000000&icon_color=000000
-       &bg_color=FFF176,FFEB3B"
-       alt="cookiexlks github stats" />
-</a>
-|
-<a href="https://github.com/cookiexlks/github-readme-stats">
-  <img align="center"
-       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cookiexlks&layout=compact&hide_border=true
-       &title_color=000000&text_color=000000&icon_color=000000
-       &bg_color=FFF176,FFEB3B" />
-</a>
+<div align="center">
 
-| ------------- | ------------- |
+## GitHub Stats
+
+<div style="
+  background: linear-gradient(135deg, #FFF176, #FFEB3B);
+  padding: 20px;
+  border-radius: 12px;
+  width: 420px;
+  font-family: Arial, sans-serif;
+  color: #000000;
+  box-shadow: 0 0 12px rgba(0,0,0,0.15);
+  text-align: left;
+">
+
+<b>Total Repositories:</b>  
+<b>Total Stars:</b>  
+<b>Total Commits:</b>  
+<b>Languages Used:</b>  
+<b>Activity Level:</b>  
+
+</div>
+
+</div>
 
 
 
