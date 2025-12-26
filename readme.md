@@ -8,7 +8,7 @@
 </p>
 
 ## Fast GitHub Stats ↓
-<div align="center">
+
 
 ## GitHub Stats
 
