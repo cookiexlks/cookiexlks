@@ -12,7 +12,10 @@
 
 
 ## My Github Streak!
-![Contributions](https://github-contributions.vercel.app/api/v1/cookiexlks)
+![Hacker](https://img.shields.io/badge/Hacker-00ff41?style=for-the-badge&logo=matrix&logoColor=000000&labelColor=000000)
+![Terminal](https://img.shields.io/badge/Terminal-00ff41?style=for-the-badge&logo=gnometerminal&logoColor=00ff41&labelColor=000000)
+![Linux](https://img.shields.io/badge/Linux-00ff41?style=for-the-badge&logo=linux&logoColor=00ff41&labelColor=000000)
+
 
 
 
