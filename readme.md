@@ -8,18 +8,19 @@
 </p>
 
 ## Fast GitHub Stats ↓
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" 
-       src="https://github-readme-stats-fast.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=FFF176,FFEB3B" 
-       alt="Anurag's github stats" />
+<a href="https://github.com/cookiexlks/github-readme-stats">
+  <img align="center"
+       src="https://github-readme-stats-fast.vercel.app/api?username=cookiexlks&show_icons=true&include_all_commits=true&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=FFF176,FFEB3B"
+       alt="cookiexlks github stats" />
 </a>
 |
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" 
-       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=FFF176,FFEB3B" />
+<a href="https://github.com/cookiexlks/github-readme-stats">
+  <img align="center"
+       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cookiexlks&layout=compact&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=FFF176,FFEB3B" />
 </a>
 
 | ------------- | ------------- |
+
 
 
 
