@@ -11,10 +11,21 @@
 ![Stats](https://github-readme-stats-fast.vercel.app/api?username=cookiexlks&show_icons=true&theme=ambient_gradient&bg_color=000000,00FF41&title_color=00FF41&text_color=00FF41&icon_color=00FF41&include_all_commits=true&count_private=true&rank_icon=percentile&cache_seconds=14400&hide_border=true&border_radius=10)
 
 
-## My GitHub Status
-![Hacker](https://img.shields.io/badge/Hacker-00ff41?style=for-the-badge&logo=matrix&logoColor=000000&labelColor=000000)
-![Terminal](https://img.shields.io/badge/Terminal-00ff41?style=for-the-badge&logo=gnometerminal&logoColor=00ff41&labelColor=000000)
-![Linux](https://img.shields.io/badge/Linux-00ff41?style=for-the-badge&logo=linux&logoColor=00ff41&labelColor=000000)
+## My GitHub Trophys & More
+![Commits](https://img.shields.io/badge/1000%2B_Commits-00ff41?style=for-the-badge&labelColor=000000)
+![Projects](https://img.shields.io/badge/20%2B_Projects-00ff41?style=for-the-badge&labelColor=000000)
+![Open_Source](https://img.shields.io/badge/Open_Source_Contributor-00ff41?style=for-the-badge&labelColor=000000)
+![Bug_Hunter](https://img.shields.io/badge/Bug_Hunter-00ff41?style=for-the-badge&labelColor=000000)
+
+
+![Hacker](https://img.shields.io/badge/Hacker_Mode-00ff41?style=for-the-badge&labelColor=000000)
+![Terminal Master](https://img.shields.io/badge/Terminal_Master-00ff41?style=for-the-badge&labelColor=000000)
+![Code Wizard](https://img.shields.io/badge/Code_Wizard-00ff41?style=for-the-badge&labelColor=000000)
+![Fast Learner](https://img.shields.io/badge/Fast_Learner-00ff41?style=for-the-badge&labelColor=000000)
+
+
+![Followers](https://img.shields.io/github/followers/cookiexlks?color=00ff41&label=Followers&style=for-the-badge&labelColor=000000)
+![Stars](https://img.shields.io/github/stars/cookiexlks?color=00ff41&label=Stars&style=for-the-badge&labelColor=000000)
 
 
 
