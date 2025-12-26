@@ -8,7 +8,7 @@
 </p>
 
 ## Fast GitHub Stats ↓
-![Cookie's GitHub Stats](https://gh-stats.public.homelab.utkuozdemir.org/api?username=cookiexlks&show_icons=true&title_color=FFEB3B&text_color=FFEB3B&icon_color=FFEB3B)
+![Cookie's GitHub Stats](https://gh-stats.public.homelabs.cookiexlks.com/api?username=cookiexlks&show_icons=true&title_color=FFEB3B&text_color=FFEB3B&icon_color=FFEB3B)
 
 
 
