@@ -8,35 +8,7 @@
 </p>
 
 ## Fast GitHub Stats ↓
-
-
-## GitHub Stats
-
-<div style="
-  background: linear-gradient(135deg, #FFF176, #FFEB3B);
-  padding: 20px;
-  border-radius: 12px;
-  width: 420px;
-  font-family: Arial, sans-serif;
-  color: #000000;
-  box-shadow: 0 0 12px rgba(0,0,0,0.15);
-  text-align: left;
-">
-
-<b>Total Repositories:</b>  
-<b>Total Stars:</b>  
-<b>Total Commits:</b>  
-<b>Languages Used:</b>  
-<b>Activity Level:</b>  
-
-</div>
-
-</div>
-
-
-
-
-
+![Cookie's GitHub Stats](https://gh-stats.public.homelab.utkuozdemir.org/api?username=cookiexlks&show_icons=true&title_color=FFEB3B&text_color=FFEB3B&icon_color=FFEB3B&bg_color=00000000)
 
 
 ## My GitHub Profile Status
